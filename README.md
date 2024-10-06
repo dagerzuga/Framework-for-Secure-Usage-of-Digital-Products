@@ -235,7 +235,7 @@ Similar to other categories, you don't want to write personal information on a p
 - **End-to-End Encryption (E2EE)**: Ensure your notes are encrypted and can only be read by you.
 - **Cross-Platform Availability**: Look for apps that work across multiple devices and operating systems.
 - **Open Source**: Open-source apps allow for community review of the code, increasing transparency and trust.
-- **Self-Hosting Options**: The ability to self-host gives you full control over your data.
+- **Self-Hosting Options**: The ability to self-host gives you full control over your data. This one is just a nice to have.
 
 #### ✅ Recommended Products
 
