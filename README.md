@@ -36,11 +36,14 @@
      - [🏦 Digital Banking](#-digital-banking)
      - [🛡️ Personal Information Protection](#️-personal-information-protection)
    - [📁 File Handling](#-file-handling)
-     - [☁️ Cloud Storage Usage](#️-cloud-storage-usage)
+     - [🏞️ Pictures](#%EF%B8%8F-pictures) 
+     - [📚 Notes](#-notes)
+     - [📑 Office](#-office)
+     - [☁️ Cloud Storage Usage](#%EF%B8%8F-cloud-storage-usage)
      - [💾 Data Backup and Recovery](#-data-backup-and-recovery)
      - [🏷️ Metadata Management](#%EF%B8%8F-metadata-management)
      - [🔀 Secure File Sharing](#-secure-file-sharing)
-     - [🔐 Document Encryption](#-document-encryption)
+     - [🔐 Encryption](#-encryption)
      - [🗑️ Secure Deletion of Files and Data](#️-secure-deletion-of-files-and-data)
    - [🔍 Special Scenarios](#-special-scenarios)
      - [🏠 Remote Work Security](#-remote-work-security)
@@ -220,6 +223,18 @@ Self-hosting refers to the practice of locally running and maintaining a website
 
 ## 📁 File Handling
 
+### 🏞️ Pictures
+
+[Back to Top](#top)
+
+### 📚 Notes
+
+[Back to Top](#top)
+
+### 📑 Office
+
+[Back to Top](#top)
+
 ### ☁️ Cloud Storage Usage
 
 [Back to Top](#top)
@@ -236,7 +251,7 @@ Self-hosting refers to the practice of locally running and maintaining a website
 
 [Back to Top](#top)
 
-### 🔐 Document Encryption
+### 🔐 Encryption
 
 [Back to Top](#top)
 
