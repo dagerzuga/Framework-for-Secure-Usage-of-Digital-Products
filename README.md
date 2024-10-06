@@ -229,6 +229,44 @@ Self-hosting refers to the practice of locally running and maintaining a website
 
 ### 📚 Notes
 
+Similar to other categories, you don't want to write personal information on a product that can be seen by whoemeber is behind it. And yes, this is somethign that some products do or have done, for example the once popular Evenote (read about the controvery [here](https://lifehacker.com/evernote-employees-can-read-your-notes-and-theres-no-w-1790099958) and [here](https://www.zdnet.com/article/new-privacy-policy-will-let-evernote-employees-read-your-notes/). Have Evernote changed? Is it a good product now? It doesn't matter, in this field, a company that attempts to do this, is a company that shouldn't be trusted.
+
+#### 🔑 Key Considerations
+- **End-to-End Encryption (E2EE)**: Ensure your notes are encrypted and can only be read by you.
+- **Cross-Platform Availability**: Look for apps that work across multiple devices and operating systems.
+- **Open Source**: Open-source apps allow for community review of the code, increasing transparency and trust.
+- **Self-Hosting Options**: The ability to self-host gives you full control over your data.
+
+#### ✅ Recommended Products
+
+1. **[Standard Notes](https://standardnotes.com/)**
+   - End-to-end encrypted
+   - Available on iOS, Android, Windows, Mac, Linux, and web browsers
+   - Open source
+   - Self-hosting option available
+   - Syncs across devices
+  
+2. **[Notesnook](https://notesnook.com/)**
+   - End-to-end encrypted
+   - Available on iOS, Android, Windows, Mac, Linux, and web browsers
+   - Open source
+   - Syncs across devices
+
+#### ❌ Products to Avoid
+
+1. **[Simplenote](https://simplenote.com/)**
+   - Lacks end-to-end encryption
+   - Company advises against storing sensitive information: ["we recommend not using Simplenote to store anything particularly sensitive."](https://simplenote.com/help/#encryption)
+
+2. **[Evernote](https://evernote.com/)**
+   - History of privacy concerns
+   - Past controversies regarding employee access to user notes ([source 1](https://lifehacker.com/evernote-employees-can-read-your-notes-and-theres-no-w-1790099958), [source 2](https://www.zdnet.com/article/new-privacy-policy-will-let-evernote-employees-read-your-notes/))
+
+3. **[OneNote](https://www.onenote.com/)**
+   - Lacks end-to-end encryption
+   - Owned by Microsoft, a company known for displaying ads in other products (e.g., email services)
+
+
 [Back to Top](#top)
 
 ### 📑 Office
