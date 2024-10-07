@@ -229,7 +229,7 @@ Self-hosting refers to the practice of locally running and maintaining a website
 
 ### 📚 Notes
 
-Similar to other categories, you don't want to write personal information on a product that can be seen by whoemeber is behind it. And yes, this is somethign that some products do or have done, for example the once popular Evenote (read about the controvery [here](https://lifehacker.com/evernote-employees-can-read-your-notes-and-theres-no-w-1790099958) and [here](https://www.zdnet.com/article/new-privacy-policy-will-let-evernote-employees-read-your-notes/). Have Evernote changed? Is it a good product now? It doesn't matter, in this field, a company that attempts to do this, is a company that shouldn't be trusted.
+Similar to other categories, you don't want to write personal information on a product that can be seen by whoever is behind it. And yes, this is somethign that some products do or have done, for example the once popular Evenote (read about the controvery [here](https://lifehacker.com/evernote-employees-can-read-your-notes-and-theres-no-w-1790099958) and [here](https://www.zdnet.com/article/new-privacy-policy-will-let-evernote-employees-read-your-notes/). Have Evernote changed? Is it a good product now? It doesn't matter, in this field, a company that attempts to do this, is a company that shouldn't be trusted.
 
 #### 🔑 Key Considerations
 - **End-to-End Encryption (E2EE)**: Ensure your notes are encrypted and can only be read by you.
