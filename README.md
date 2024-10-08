@@ -36,7 +36,7 @@
      - [🏦 Digital Banking](#-digital-banking) (to do)
      - [🛡️ Personal Information Protection](#️-personal-information-protection) (to do)
    - [📁 File Handling](#-file-handling) (to do)
-     - [🏞️ Pictures](#%EF%B8%8F-pictures) (to do)
+     - [🏞️ Pictures](#%EF%B8%8F-pictures) (WIP)
      - [📚 Notes](#-notes)
      - [📑 Office](#-office) (to do)
      - [☁️ Cloud Storage Usage](#%EF%B8%8F-cloud-storage-usage) (to do)
@@ -225,17 +225,31 @@ Self-hosting refers to the practice of locally running and maintaining a website
 
 ### 🏞️ Pictures
 
+#### 🔑 Key Considerations
+
+##### Must Have:
+- **End-to-End Encryption (E2EE)**: Ensure your photos are encrypted and can only be accessed by you and those you choose to share with.
+- **Backup and Sync**: Ensure your chosen solution offers reliable backup and synchronization across devices.
+- **Storage Capacity**: Consider the amount of storage offered and whether it meets your needs.
+- **Sharing Options**: Prefer services that offer secure, controlled sharing methods.
+- **AI and Machine Learning**: Be aware of how the service uses AI, if at all, to process your images.
+
+##### Nice to Have:
+- **Control Over Metadata**: Look for services that allow you to remove or control metadata (like location data) from your photos.
+- **Self-Hosting Options**: The ability to self-host gives you full control over your photo storage.
 [Back to Top](#top)
 
 ### 📚 Notes
 
 Similar to other categories, you don't want to write personal information on a product that can be seen by whoever is behind it. And yes, this is somethign that some products do or have done, for example the once popular Evenote (read about the controvery [here](https://lifehacker.com/evernote-employees-can-read-your-notes-and-theres-no-w-1790099958) and [here](https://www.zdnet.com/article/new-privacy-policy-will-let-evernote-employees-read-your-notes/). Have Evernote changed? Is it a good product now? It doesn't matter, in this field, a company that attempts to do this, is a company that shouldn't be trusted.
 
-#### 🔑 Key Considerations
+##### Must Have:
 - **End-to-End Encryption (E2EE)**: Ensure your notes are encrypted and can only be read by you.
 - **Cross-Platform Availability**: Look for apps that work across multiple devices and operating systems.
 - **Open Source**: Open-source apps allow for community review of the code, increasing transparency and trust.
-- **Self-Hosting Options**: The ability to self-host gives you full control over your data. This one is just a nice to have.
+
+##### Nice to Have:
+- **Self-Hosting Options**: The ability to self-host gives you full control over your data.
 
 #### ✅ Recommended Products
 
