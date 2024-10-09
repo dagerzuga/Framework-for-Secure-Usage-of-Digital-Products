@@ -246,6 +246,7 @@ Self-hosting refers to the practice of locally running and maintaining a website
    - Available on iOS, Android, and web
    - Open source
    - Offers automatic backup and sync
+   - Multiple features focused on privacy
 
 2. **[Nextcloud](https://nextcloud.com/)**
    - Self-hosted solution that includes photo storage and sharing
