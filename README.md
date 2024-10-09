@@ -36,7 +36,7 @@
      - [🏦 Digital Banking](#-digital-banking) (to do)
      - [🛡️ Personal Information Protection](#️-personal-information-protection) (to do)
    - [📁 File Handling](#-file-handling) (to do)
-     - [🏞️ Pictures](#%EF%B8%8F-pictures) (WIP)
+     - [🏞️ Pictures](#%EF%B8%8F-pictures)
      - [📚 Notes](#-notes)
      - [📑 Office](#-office) (to do)
      - [☁️ Cloud Storage Usage](#%EF%B8%8F-cloud-storage-usage) (to do)
@@ -238,6 +238,38 @@ Self-hosting refers to the practice of locally running and maintaining a website
 - **Control Over Metadata**: Look for services that allow you to remove or control metadata (like location data) from your photos.
 - **Self-Hosting Options**: The ability to self-host gives you full control over your photo storage.
 [Back to Top](#top)
+
+#### ✅ Recommended Products
+
+1. **[Ente](https://ente.io/)**
+   - End-to-end encrypted
+   - Available on iOS, Android, and web
+   - Open source
+   - Offers automatic backup and sync
+
+2. **[Nextcloud](https://nextcloud.com/)**
+   - Self-hosted solution that includes photo storage and sharing
+   - End-to-end encryption available
+   - Open source
+
+#### ⚠️ Products that could work
+
+1. **[iCloud Photos](https://www.apple.com/icloud/photos/)**
+   - iCloud is not end-to-end encrypted by default, but you can turn this option on with Advanced Data Protection.
+   - E2EE doesn't work on every apple device.
+   - If you have a product that supports Advanced Data Protection and products that don't support it in the same account, then you can't turn this on.
+   - You won't have a convenient way to share albums with people outside the Apple ecosystem.
+
+#### ❌ Products to Avoid
+
+1. **[Google Photos](https://www.google.com/photos/about/)**
+   - Not end-to-end encrypted
+   - Google has access to your photos
+   - Known for data mining and privacy issues
+
+2. **[Amazon Photos](https://www.amazon.com/Amazon-Photos/b?ie=UTF8&node=13234696011)**
+   - Not end-to-end encrypted
+   - Amazon has access to your photos
 
 ### 📚 Notes
 
