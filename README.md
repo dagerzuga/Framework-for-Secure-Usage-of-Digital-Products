@@ -39,7 +39,7 @@
      - [🏞️ Pictures](#%EF%B8%8F-pictures)
      - [📚 Notes](#-notes)
      - [📑 Office](#-office) (to do)
-     - [☁️ Cloud Storage Usage](#%EF%B8%8F-cloud-storage-usage) (to do)
+     - [☁️ Cloud Storage](#%EF%B8%8F-cloud-storage)
      - [💾 Data Backup and Recovery](#-data-backup-and-recovery) (to do)
      - [🏷️ Metadata Management](#%EF%B8%8F-metadata-management) (to do)
      - [🔀 Secure File Sharing](#-secure-file-sharing) (to do)
@@ -320,7 +320,61 @@ Similar to other categories, you don't want to write personal information on a p
 
 [Back to Top](#top)
 
-### ☁️ Cloud Storage Usage
+### ☁️ Cloud Storage
+
+##### Must Have:
+- **End-to-End Encryption (E2EE)**: Ensure your files are encrypted before they leave your device and can only be decrypted by you.
+- **Open Source**: Open-source solutions allow for community review of the code, increasing transparency and trust.
+- **Cross-Platform Support**: The service should work seamlessly across different operating systems and devices.
+- **File Syncing**: Ability to automatically sync files across multiple devices.
+- **Secure File Sharing**: Options to share files securely with others, preferably with granular access controls.
+
+##### Nice to Have:
+- **Self-Hosting Option**: The ability to host the cloud storage solution on your own servers for maximum control.
+- **Version History**: Keep track of changes made to your files over time.
+
+#### ✅ Recommended Products
+
+1. **[Proton Drive](https://proton.me/drive)**
+   - End-to-end encrypted
+   - [Open-source](https://proton.me/blog/drive-open-source)
+   - Available on web, iOS, and Android
+   - Secure file sharing
+   - From the makers of ProtonMail and ProtonVPN, known for their focus on privacy
+  
+2. **[MEGA](https://mega.io/)**
+   - End-to-end encrypted
+   - [zero-knowledge implementation](https://help.mega.io/security/data-protection/zero-knowledge-encryption)
+   - Available on multiple platforms
+   - Offers generous free storage
+   - Open-source clients
+   - Secure file sharing with granular permissions
+  
+3. **[Filen](https://filen.io/)**
+   - End-to-end encrypted
+   - Zero-knowledge encryption
+   - Available on multiple platforms
+   - Open-source clients
+   - Secure file sharing with password protection and expiration dates
+   - Supports versioning and deleted file recovery
+
+#### ❌ Products to Avoid
+
+1. **[Dropbox](https://www.dropbox.com/)**
+   - Not end-to-end encrypted
+   - Has access to your files
+   - Known for privacy concerns in the past
+
+2. **[Google Drive](https://www.google.com/drive/)**
+   - Not end-to-end encrypted
+   - Google has access to your files
+   - Known for data mining and privacy issues
+
+3. **[Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)**
+   - Not end-to-end encrypted by default
+   - Microsoft has access to your files
+   - Privacy concerns similar to other big tech companies
+
 
 [Back to Top](#top)
 
