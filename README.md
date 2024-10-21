@@ -50,7 +50,7 @@
      - [✈️ Travel Security](#️-travel-security) (to do)
    - [🚀 Advanced Topics](#-advanced-topics) (to do)
      - [🖥️ Self-Hosting Services](#️-self-hosting-services) (to do)
-     - [🤖 AI](#-ai) (to do)
+     - [🤖 AI](#-ai)
 4. [📚 More Resources](#-more-resources) (to do)
 5. [🤝 Contribution](#-contribution)
 
@@ -745,6 +745,38 @@ Similar to other categories, you don't want to write personal information on a p
 [Back to Top](#top)
 
 ### 🤖 AI 
+
+As AI and Large Language Models (LLMs) become more prevalent in our daily lives, it's crucial to use these tools responsibly and with privacy in mind. Here are some best practices and considerations:
+
+#### ✅ Best Practices for AI Interaction:
+
+- **Anonymize Your Data**: Before uploading any document or information to an AI service, remove all personal identifiable information (PII). For example, if seeking medical advice, only include relevant symptoms and medical history, not your name, address, or full medical records.
+
+- **Segment Your Information**: Instead of uploading entire documents, extract only the relevant parts you want to analyze. This minimizes the amount of data you're sharing.
+
+- **Use Anonymous Services**: Consider using AI chat services that prioritize privacy. For example, DuckDuckGo offers an option to use LLMs anonymously: [DuckDuckGo AI Chat](https://duckduckgo.com/chat)
+
+- **Account Creation**: When signing up for AI services, follow the best practices outlined in the [👤 Online Account Creation and Deletion](#-online-account-creation-and-deletion) section of this document. Use email aliases, avoid providing real personal information, and use strong, unique passwords.
+
+- **Avoid Sensitive Topics**: Be cautious about discussing highly personal or sensitive topics with AI. Remember, your conversations may be used to train the AI further.
+
+#### 🚫 Things to Avoid:
+
+- **Don't Share Personal Documents**: Never upload entire personal documents like medical records, financial statements, or legal documents to AI services.
+
+- **Avoid Real Names**: Don't use real names (yours or others) when interacting with AI. Use pseudonyms or generic terms like "my friend" or "my colleague".
+
+- **No Financial Information**: Never share credit card numbers, bank account details, or other financial information with AI services.
+
+- **Don't share Credentials**: Never put credentials such as passwords, 2FA codes, API keys or anything that has to do with authentication.
+
+#### ⚠️ General Considerations:
+
+- **Data Retention**: Be aware that many AI services retain conversation logs. Treat every interaction as potentially permanent.
+
+- **AI Limitations**: Remember that AI, while powerful, can make mistakes or provide outdated information. Always verify critical information from authoritative sources.
+
+- **Terms of Service**: Always read the terms of service and privacy policy of AI services to understand how your data will be used and stored.
 
 [Back to Top](#top)
 
