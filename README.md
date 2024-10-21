@@ -21,7 +21,7 @@
    - [🔑 Identity and Account Management](#-identity-and-account-management) (to do)
      - [🔐 Passwords and Passphrases](#-passwords-and-passphrases)
      - [🔢 Multi-Factor Authentication](#-multi-factor-authentication)
-     - [📧 Email Security](#-email-security) (to do)
+     - [📧 Email Security](#-email-security)
      - [👤 Online Account Creation and Deletion](#-online-account-creation-and-deletion) (to do)
    - [🌐 Secure Internet Usage](#-secure-internet-usage) (to do)
      - [🏄‍♂️ Secure Browsing](#️-secure-browsing) (to do)
@@ -343,6 +343,131 @@ Ideally, it's recommended to use separate apps for password management and one-t
 [Back to Top](#top)
 
 ### 📧 Email Security
+
+Your email is central to almost everything you do online. It's how you sign up for services, recover accounts, and communicate. That's why it's crucial to keep it secure.
+
+> Consider this: You use your primary email for job searching, online shopping, and social media. A data broker obtains this email through a breach. They can now link your professional background from job sites, your purchasing habits from e-commerce emails, and your social connections from social media. This comprehensive profile could be used for targeted advertising, sold to potential employers, or even used to manipulate your opinions through personalized content.
+
+#### 🛡️ Best Practices for Email Usage
+
+1. **Use Email Aliases**: Create unique aliases for different purposes:
+   - One alias per online service when possible (e.g., separate aliases for GitHub, CodePen, LinkedIn)
+   - When not possible, group aliases by category:
+     - Social media (Facebook, Instagram, LinkedIn)
+     - Financial and educational institutions
+     - Developer accounts (GitHub, CodePen, AWS)
+
+2. **Protect Your Identity**:
+   - Use your real name or last name only for emails related to bank, education or work
+   - For other purposes, avoid including your name or any other piece of real information in the email address. Use something generic.
+
+3. **Regular Security Audits**: Periodically review your email settings, connected apps, and active sessions.
+
+4. **Be Cautious with Attachments**: Never open attachments from unknown senders, and be wary of unexpected attachments even from known contacts.
+
+5. **Use Secure Communication**: For sensitive information, consider using encrypted messaging apps instead of email. Remember that, by nature, email is not a secure communication channel.
+
+#### 📩 Understanding Email Aliases
+
+An email alias is an alternative email address that forwards incoming messages to your main email account. It's like having multiple mailboxes that all route mail to a single destination. Here's why email aliases are important for security and privacy:
+
+1. **Compartmentalization**: Use different aliases for different services to prevent correlation of your online activities.
+2. **Spam Control**: If an alias starts receiving spam, you can easily disable or delete it without affecting your main email.
+3. **Privacy Protection**: Aliases allow you to interact online without revealing your primary email address.
+4. **Easy Organization**: You can sort incoming emails based on which alias they were sent to.
+
+#### 🔑 Key Considerations for email providers
+
+##### Must Have:
+- **End-to-End Encryption (E2EE)**: Choose an email provider that offers E2EE to ensure that only you and your intended recipient can read the contents of your emails.
+- **Strong Authentication**: Use strong, unique passwords and enable two-factor authentication (2FA) for your email accounts.
+
+#### ✅ Recommended Email Providers
+
+1. **[Proton Mail](https://proton.me/mail)**
+   - End-to-end encrypted
+   - Based in Switzerland with strong privacy laws
+   - Offers free and paid plans
+   - Open-source
+   - This is one of the most popular secure email providers.
+
+2. **[Tutanota](https://tutanota.com/)**
+   - End-to-end encrypted
+   - Based in Germany with strict data protection laws
+   - Open-source
+   - Offers free and paid plans
+
+#### ✅ Recommended Email Alias Services
+
+1. **[SimpleLogin](https://simplelogin.io/)**
+   - Open-source
+   - Offers free and paid plans
+   - Can be self-hosted
+   - Integrates well with ProtonMail (is owned by the same company)
+
+2. **[AnonAddy](https://anonaddy.com/)**
+   - Open-source
+   - Offers free and paid plans
+   - Can be self-hosted
+
+#### ❌ Email Providers to Avoid
+
+1. **[Gmail](https://www.google.com/gmail/)**
+   - Lacks end-to-end encryption
+   - Known for data mining and privacy concerns
+
+2. **[Yahoo Mail](https://mail.yahoo.com/)**
+   - History of security breaches
+   - Scans emails for data collection
+
+3. **[Outlook.com](https://outlook.live.com/)**
+   - Lacks end-to-end encryption
+   - Microsoft has access to your emails
+   - Known for displaying ads in free version
+  
+#### 🔄  Example Workflow - Proton + SimpleLogin
+
+1) Create Your Main Proton Account:
+- Sign up for a Proton Mail account: https://proton.me/mail
+- Use a generic, non-identifying email address, e.g., `dogclouldpruplelish@proton.me`
+- Avoid using any personal information in this email address
+- Use a strong, unique password
+- This will be your primary account - never share this email with anyone or use it to sign up for services
+
+2) Secure Your Main Account:
+- Enable Two-Factor Authentication (2FA)
+- Set up recovery methods (e.g., recovery email, phone number)
+- Consider using a hardware security key for maximum security
+
+3) Set Up SimpleLogin:
+- Sign up for SimpleLogin using your proton account (it's owned by the same company)
+- Enable 2FA for your SimpleLogin account as well
+
+4) Create Aliases for Various Services:
+
+- For each new account you create online, generate a new alias in SimpleLogin
+- Use a naming convention that includes the service name, e.g., codepen-3xj2k@simplelogin.io
+- Ensure these aliases are completely different from your main Proton email. These are some examples:
+   - twitter-y7lpq@simplelogin.io
+   - amazon-9fmr3@simplelogin.io
+   - reddit-h2ns8@simplelogin.io
+
+5) Set Up Additional Proton Addresses (for paid plans):
+
+- Create a more formal email for professional use: firstname.lastname@proton.me
+Use this for:
+
+   - Banking communications
+   - Government services
+   - Job applications
+   - University correspondence
+
+Consider creating separate addresses for different areas of your life, e.g.:
+
+- firstname-number-lastname@proton.me for financial matters
+- lastname.number.firstname@proton.me for educational purposes
+
+> Remember to use a password manager to genearte one unique password per account
 
 [Back to Top](#top)
 
