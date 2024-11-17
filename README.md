@@ -24,7 +24,7 @@
      - [📧 Email Security](#-email-security)
      - [👤 Online Account Creation and Deletion](#-online-account-creation-and-deletion)
    - [🌐 Secure Internet Usage](#-secure-internet-usage) (to do)
-     - [🏄‍♂️ Secure Browsing](#️-secure-browsing) (to do)
+     - [🏄‍♂️ Secure Browsing](#️-secure-browsing)
      - [🔒 VPN Usage](#-vpn-usage) (to do)
      - [📡 Wi-Fi Security (Public and Home)](#-wi-fi-security-public-and-home) (to do)
    - [💬 Online Communication](#-online-communication) (to do)
@@ -512,6 +512,238 @@ When creating and managing online accounts, it's crucial to be mindful of the in
 ## 🌐 Secure Internet Usage
 
 ### 🏄‍♂️ Secure Browsing
+
+Your web browser is your primary gateway to the internet, making it one of the most important tools to secure. A properly configured browser can significantly enhance your privacy and security while browsing the web. In this section we will cover browsers for both mobile and desktop.
+
+#### 🔍 Key Concepts
+
+1. **Web Browser**:
+   - A software application that allows you to access, retrieve, and navigate information on the World Wide Web
+   - Acts as an interpreter between you and the web, translating web code into visible pages
+   - Examples: Firefox, Chrome, Safari
+
+2. **Search Engine**:
+   - A service that helps you find information across the internet
+   - Not the same as a browser - you use a browser to access a search engine
+   - Examples: DuckDuckGo, Google, Bing
+
+3. **Browser Extension/Add-on**:
+   - Small software programs that customize your browsing experience
+   - Can add new features to your browser or modify existing functionality
+   - Should be installed carefully as they can access your browsing data
+
+4. **Tracker**:
+   - Code that monitors your online behavior
+   - Can follow you across different websites
+   - Used for advertising, analytics, and user profiling
+   - Types include:
+     - First-party trackers (from the site you're visiting)
+     - Third-party trackers (from other companies)
+     - Cookie-based trackers
+     - Fingerprinting trackers
+    
+5. **Cookie**:
+   - Small pieces of data stored by websites on your device
+   - Can be helpful (remembering login status) or privacy-invasive (tracking)
+
+6. **Browser Fingerprinting**:
+   - Technique to identify users based on their browser's characteristics
+   - Combines multiple data points like:
+     - Screen resolution
+     - Installed fonts
+     - Browser plugins
+     - System settings
+
+#### 🔑 Key Considerations
+
+##### Must Have:
+- **Privacy-Focused**: Choose a browser that prioritizes user privacy and doesn't collect telemetry data by default
+- **Regular Security Updates**: The browser should receive frequent security updates
+- **Strong Default Security**: Built-in protection against tracking, fingerprinting, and malicious websites
+- **Extension Support**: Ability to install privacy-enhancing extensions
+- **Enhanced Tracking Protection**: Built-in features to block trackers and fingerprinting attempts
+
+##### Nice to Have:
+- **Open Source**: Allows for code review and transparency
+- **Cross-Platform Sync**: Secure synchronization of bookmarks and settings across devices
+
+#### ✅ Recommended Browsers
+
+1) **[Brave](https://brave.com/)**
+   - Open-source
+   - Chromium-based but privacy-focused
+   - Regular security updates
+   - Strong privacy features
+   - Built-in ad and tracker blocking
+   - Tor browsing capability
+   - Available on mobile and desktop
+
+2. **[DuckDuckGo](https://duckduckgo.com/index.html)**
+   - Built-in tracker blocking
+   - Email protection feature
+   - App tracking protection on Android
+   - Simple, privacy-focused interface
+   - Regular updates
+   - Great for mobile use
+   - Available on mobile and desktop
+
+3. **[Mullvad](https://mullvad.net/en/browser)**
+   - Based on Firefox ESR
+   - Developed by Mullvad VPN and Tor Project
+   - Excellent anti-fingerprinting protection
+   - Includes security hardening by default
+   - No telemetry or data collection
+   - Regular security updates
+   - Not available for mobile*
+
+4) **[Firefox](https://www.mozilla.org/en-US/firefox/)**
+   - Open-source
+   - Independent engine (not Chromium-based)
+   - Regular security updates
+   - Strong privacy features
+   - Extensive customization options
+   - Available on mobile and desktop
+
+#### ❌ Browsers to Avoid
+
+1. **[Google Chrome](https://www.google.com/chrome/)**
+   - Heavy tracking and data collection
+   - Tied to Google ecosystem
+   - Privacy concerns with Google's business model
+   - Phasing out ad-blocking capabilities
+   - Extensive browser fingerprinting 
+   - History of privacy controversies
+
+2. **[Microsoft Edge](https://www.microsoft.com/edge)**
+   - Built-in tracking
+   - Sends data to Microsoft
+   - Aggressive promotion of Microsoft services
+   - Privacy concerns similar to Chrome
+   - History of unwanted data collection
+
+3. **[Opera](https://www.opera.com/)**
+   - Owned by a Chinese consortium
+   - Privacy policy allows extensive data collection
+   - History of questionable business practices
+
+#### 🛡️ Essential Browser Extensions
+
+These are some extensions that you want to install on the browser of your desktop machine in order to enhance the privacy of your browsing activity. Keep in mind that not every extension is available for every recommended browser.
+
+> Note: By nature, extensions are usually invasive and very dangerous since they have a lot of permissions, because of that install only the extensions you need and trust. Each extension you add can make your browser more unique and easier to fingerprint, but you need to be responsible with what you install.
+
+1. **[uBlock Origin](https://ublockorigin.com/)**
+   - Efficient ad and tracker blocking
+   - Open-source
+   - Low resource usage
+   - Regular updates
+   - Powerful advanced features
+   - Large community-maintained filter lists
+
+2. **[Privacy Badger](https://privacybadger.org/)**
+   - Learns to block trackers automatically
+   - Developed by EFF (Electronic Frontier Foundation)
+   - Complements other blocking extensions
+   - Works without predefined lists
+   - Adapts to new tracking methods
+  
+3. **[NoScript](https://noscript.net/)** (Advanced Users)
+   - Blocks JavaScript by default
+   - Granular control over script execution
+   - Powerful protection against XSS attacks
+   - May break many websites initially*
+  
+4. **[DuckDuckGo Privacy Essentials](https://duckduckgo.com/app)**
+   - Tracker blocking
+   - Forces encrypted connections
+   - Privacy grade rating for websites
+   - Global privacy control
+   - Search engine integration
+
+#### 🖥️ Recommended Search Engines
+
+1. **[DuckDuckGo](https://duckduckgo.com/)**
+   - No search history collection
+   - No user profiling or tracking
+   - Clear privacy policy
+
+2. **[Brave Search](https://search.brave.com/)**
+   - Independent index (not relying on Google/Bing)
+   - No tracking or profiling
+   - Transparent ranking
+   - Clear about sources of results
+  
+#### ❌ Search Engines to Avoid
+
+1. **[Google Search](https://www.google.com)**
+   - Extensive tracking and data collection
+   - Creates detailed user profiles
+   - Personalizes results based on your data
+   - Shares data across Google services
+   - Stores search history indefinitely
+   - Used for targeted advertising
+
+2. **[Bing](https://www.bing.com)**
+   - Microsoft's data collection practices
+   - Tracks user behavior
+   - Integrates with Microsoft advertising
+   - Stores search history
+   - Used for user profiling
+   - Shares data with Microsoft services
+  
+#### ⚡ Tips for Secure Browsing
+
+
+1. **Regular Maintenance**:
+   - Keep your browser updated
+   - Regularly review and remove unused extensions
+   - Clear browsing data periodically
+   - Update your extensions when new versions are available
+
+
+2. **Browsing Habits**:
+   - Avoid clicking on suspicious links
+   - Use bookmarks for frequently visited sites instead of typing URLs
+   - Be cautious with pop-ups and redirects
+   - Type sensitive URLs (like banking websites) manually
+      - Use this tool if you want to analyse a suspicious URL: https://chardetective.netlify.app/
+   - Don't grant unnecessary permissions to websites (location, camera, microphone)
+
+3. **Downloads**:
+   - Only download from trusted sources
+   - Scan downloads with antivirus software
+   - Be cautious with PDF files and executables
+   - Verify file extensions before downloading
+   - Don't open files from unknown sources
+   - Be wary of "urgent" download prompts
+
+
+4. **Browser Compartmentalization**:
+   - Use different browsers for different purposes:
+     - Primary Browser (e.g., Firefox or Brave):
+       - Logged-in services (email, banking, work)
+       - Regular shopping sites
+       - Trusted news sources
+       - Services requiring persistent login
+     - Secondary Browser (e.g., DuckDuckGo):
+       - One-time visits
+       - Sensitive searches
+       - Sites you don't trust
+       - When you want to avoid tracking
+     - Hardened Browser (e.g., Mullvad):
+       - Maximum privacy needs
+       - Researching sensitive topics
+       - When you need to avoid fingerprinting
+   - Keep browsers separate:
+     - Don't sync between compartmentalized browsers
+     - Use different profiles for different purposes
+     - Consider using different browsers on different devices
+   - Benefits:
+     - Limits cross-site tracking
+     - Reduces data correlation
+     - Contains potential security breaches
+     - Makes it harder to build a complete profile of your activities
+   
 
 [Back to Top](#top)
 
